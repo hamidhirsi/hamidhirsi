@@ -1,8 +1,9 @@
 # Abdihamid 👋
 **`Junior DevOps Engineer`**
 
-I'm a driven and passionate 5x Certified Junior DevOps Engineer dedicated to delivering efficient, scalable, and secure cloud-based solutions. As a certified Azure DevOps Engineer Expert, I have built a strong foundation in Azure and through my projects I have developed a blend of skills that enable me to leverage industry-standard tools to accelerate software delivery and thrive in agile environments. All my projects have been built from the ground up, from planning all the way to solving real-life problems with DevOps. I invite you to see my skills in action and explore how I can leverage my skillset and experiences to drive success.
+I'm a 6x Certified Junior DevOps Engineer dedicated to delivering efficient, scalable, and secure cloud-based solutions. As a certified Azure DevOps Engineer Expert, I have built a strong foundation in Azure and through my projects I have developed a blend of skills that enable me to leverage industry-standard tools to accelerate software delivery and thrive in agile environments. All my projects have been built from the ground up, from planning all the way to solving real-life problems with DevOps. I invite you to see my skills in action and explore how I can leverage my skillset and experiences to drive success.
 
+LinkedIn: www.linkedin.com/in/abdihamidhirsi
 ## **🧰 Languages and Tools:**
 
 
