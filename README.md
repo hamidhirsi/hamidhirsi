@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Hamid 👋</h1>
-<h3 align="center">Platform Engineer with a focus on Kubernetes (CKA,CKAD,CKS,KCNA,KCSA))</h3>
+<h3 align="center"> Senior DevOps Engineer with a focus on Kubernetes (CKA,CKAD,CKS,KCNA,KCSA))</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidhirsi&label=Profile%20views&color=0e75b6&style=flat" alt="hamidhirsi" /> </p>
 
